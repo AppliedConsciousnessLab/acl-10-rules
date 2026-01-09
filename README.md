@@ -4,19 +4,17 @@ This repository is the technical and research companion to the book:
 
 **“ACL 101 — 10 Rules to Rewrite Your Reality”**
 
-It exists to provide transparent, inspectable grounding for the ideas
-presented in the book, without requiring belief, ideology, or agreement.
+It exists to provide transparent, inspectable grounding for the ideas presented in the book, without requiring belief, ideology, or agreement.
 
 This is not a self-help framework.
-It is a regulation-first operating model based on how human systems
-actually function under stress, learning, and change.
+It is a regulation-first operating model based on how human systems actually function under stress, learning, and change.
 
 ---
 
 ## What This Repository Is
 
 - A public research companion to the ACL 101 book
-- A place to explore the scientific and applied foundations of each rule
+- A place to explore the applied and scientific foundations of each rule
 - A calm, readable reference for skeptics, practitioners, and institutions
 - A living library that may evolve over time
 
@@ -26,10 +24,10 @@ actually function under stress, learning, and change.
 
 - A replacement for the book
 - A motivational or belief-based system
-- A diagnostic or medical authority
-- A complete academic review
+- A diagnostic, medical, or therapeutic authority
+- A complete academic literature review
 
-The book explains *how* to apply the rules.
+The book explains *how* to apply the rules.  
 This repository explains *why* they work.
 
 ---
@@ -50,27 +48,40 @@ Each rule from the book has its own folder:
 - rule-10-gratitude/
 
 Each folder contains:
-- A plain-language explanation
+- Plain-language explanations
 - Key concepts
-- References and citations
+- Supporting references and citations
 
 ---
 
 ## How to Use This Repository
 
-- Read the book first if you want context
-- Use this repository to explore evidence and mechanisms
-- Skim freely — this is not meant to be read linearly
+- Read the book first if you want narrative context
+- Use this repository to explore mechanisms and evidence
+- Skim freely — this is not intended to be read linearly
 
 ---
 
 ## Scope & Ethics
 
-Nothing in this repository is medical, legal, or psychological advice.
-It is intended for education, reflection, and transparency only.
+Nothing in this repository constitutes medical, legal, or psychological advice.
+
+It is intended for education, reflection, transparency, and informed discussion only.
 
 ---
 
 ## License
 
-This repository is licensed under the MIT License unless otherwise noted.
+This repository is licensed under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+- Attribution — You must give appropriate credit and indicate if changes were made
+- No endorsement — Use does not imply endorsement by ACL or the authors
+
+License details:  
+https://creativecommons.org/licenses/by/4.0/
